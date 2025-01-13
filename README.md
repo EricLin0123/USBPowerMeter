@@ -1,5 +1,7 @@
 # USB Type-C Power Meter
 
+> This project is part of the embedded system lecture at NTUEE Student Association Academic Department（台大電機系學會 學術部）organized by 林萬荃.
+
 This project is structured as STM32CubeIDE project. See _core_ folder for the main code.
 
 ## Description
@@ -12,7 +14,7 @@ This is a USB Type-C power meter that can measure voltage, current and power. It
 </figure>
 
 <figure style="display: block; margin-left: auto; margin-right: auto; text-align: center;">
-    <img src="image/overview.jpg" alt="Usage" width="45%" />
+    <img src="image/overview.jpg" alt="Usage" width="60%" />
     <figcaption>Overview of the device</figcaption>
 </figure>
 
